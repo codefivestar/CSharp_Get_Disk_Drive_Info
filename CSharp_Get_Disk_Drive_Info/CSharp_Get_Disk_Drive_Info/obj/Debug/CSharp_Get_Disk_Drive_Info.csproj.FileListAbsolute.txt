@@ -1,0 +1,13 @@
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\bin\Debug\CSharp_Get_Disk_Drive_Info.exe.config
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\bin\Debug\CSharp_Get_Disk_Drive_Info.exe
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\bin\Debug\CSharp_Get_Disk_Drive_Info.pdb
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\obj\Debug\CSharp_Get_Disk_Drive_Info.csproj.CoreCompileInputs.cache
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\obj\Debug\CSharp_Get_Disk_Drive_Info.exe
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\obj\Debug\CSharp_Get_Disk_Drive_Info.pdb
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\obj\Debug\CSharp_Get_Disk_Drive_Info.csprojAssemblyReference.cache
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\bin\Debug\CSharp_Get_Disk_Drive_Info.exe.config
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\bin\Debug\CSharp_Get_Disk_Drive_Info.exe
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\bin\Debug\CSharp_Get_Disk_Drive_Info.pdb
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\obj\Debug\CSharp_Get_Disk_Drive_Info.csproj.CoreCompileInputs.cache
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\obj\Debug\CSharp_Get_Disk_Drive_Info.exe
+C:\Hidequel-Puga\CFS\GitHub\CSharp\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\CSharp_Get_Disk_Drive_Info\obj\Debug\CSharp_Get_Disk_Drive_Info.pdb
